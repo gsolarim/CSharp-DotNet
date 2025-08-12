@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\bin\Debug\net8.0\05_OperadoresLogicos.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\bin\Debug\net8.0\05_OperadoresLogicos.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\bin\Debug\net8.0\05_OperadoresLogicos.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\bin\Debug\net8.0\05_OperadoresLogicos.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\bin\Debug\net8.0\05_OperadoresLogicos.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\05_OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\05_OperadoresLogicos.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\05_OperadoresLogicos.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\05_OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\05_OperadoresLogicos.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\refint\05_OperadoresLogicos.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\05_OperadoresLogicos.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\05_OperadoresLogicos.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\05_OperadoresLogicos\05_OperadoresLogicos\obj\Debug\net8.0\ref\05_OperadoresLogicos.dll

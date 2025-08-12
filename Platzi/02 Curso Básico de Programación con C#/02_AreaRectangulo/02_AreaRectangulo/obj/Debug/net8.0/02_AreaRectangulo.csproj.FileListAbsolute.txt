@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\bin\Debug\net8.0\02_AreaRectangulo.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\bin\Debug\net8.0\02_AreaRectangulo.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\bin\Debug\net8.0\02_AreaRectangulo.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\bin\Debug\net8.0\02_AreaRectangulo.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\bin\Debug\net8.0\02_AreaRectangulo.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\02_AreaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\02_AreaRectangulo.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\02_AreaRectangulo.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\02_AreaRectangulo.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\02_AreaRectangulo.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\refint\02_AreaRectangulo.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\02_AreaRectangulo.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\02_AreaRectangulo.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\02_AreaRectangulo\02_AreaRectangulo\obj\Debug\net8.0\ref\02_AreaRectangulo.dll

@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\bin\Debug\net8.0\01_HelloWorld.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\bin\Debug\net8.0\01_HelloWorld.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\bin\Debug\net8.0\01_HelloWorld.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\bin\Debug\net8.0\01_HelloWorld.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\bin\Debug\net8.0\01_HelloWorld.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\01_HelloWorld.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\01_HelloWorld.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\01_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\01_HelloWorld.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\refint\01_HelloWorld.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\01_HelloWorld.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\01_HelloWorld.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\01_HelloWorld\01_HelloWorld\obj\Debug\net8.0\ref\01_HelloWorld.dll

@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\bin\Debug\net8.0\10_WhileExample.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\bin\Debug\net8.0\10_WhileExample.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\bin\Debug\net8.0\10_WhileExample.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\bin\Debug\net8.0\10_WhileExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\bin\Debug\net8.0\10_WhileExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\10_WhileExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\10_WhileExample.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\10_WhileExample.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\10_WhileExample.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\10_WhileExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\refint\10_WhileExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\10_WhileExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\10_WhileExample.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\10_WhileExample\10_WhileExample\obj\Debug\net8.0\ref\10_WhileExample.dll

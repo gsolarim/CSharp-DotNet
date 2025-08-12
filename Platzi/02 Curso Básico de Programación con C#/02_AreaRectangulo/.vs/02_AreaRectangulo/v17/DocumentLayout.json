@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabo Workspace\\Cursos\\C# - .NET\\Platzi\\02 Curso B\u00E1sico de Programaci\u00F3n con C#\\02_AreaRectangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4130888-728B-4214-A627-E927D619878A}|02_AreaRectangulo\\02_AreaRectangulo.csproj|d:\\gabo workspace\\cursos\\c# - .net\\platzi\\02 curso b\u00E1sico de programaci\u00F3n con c#\\02_arearectangulo\\02_arearectangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4130888-728B-4214-A627-E927D619878A}|02_AreaRectangulo\\02_AreaRectangulo.csproj|solutionrelative:02_arearectangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gabo Workspace\\Cursos\\C# - .NET\\Platzi\\02 Curso B\u00E1sico de Programaci\u00F3n con C#\\02_AreaRectangulo\\02_AreaRectangulo\\Program.cs",
+              "RelativeDocumentMoniker": "02_AreaRectangulo\\Program.cs",
+              "ToolTip": "D:\\Gabo Workspace\\Cursos\\C# - .NET\\Platzi\\02 Curso B\u00E1sico de Programaci\u00F3n con C#\\02_AreaRectangulo\\02_AreaRectangulo\\Program.cs",
+              "RelativeToolTip": "02_AreaRectangulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:14:18.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

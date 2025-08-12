@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\bin\Debug\net8.0\07_Strings.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\bin\Debug\net8.0\07_Strings.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\bin\Debug\net8.0\07_Strings.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\bin\Debug\net8.0\07_Strings.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\bin\Debug\net8.0\07_Strings.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\07_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\07_Strings.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\07_Strings.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\07_Strings.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\07_Strings.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\refint\07_Strings.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\07_Strings.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\07_Strings.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\07_Strings\07_Strings\obj\Debug\net8.0\ref\07_Strings.dll

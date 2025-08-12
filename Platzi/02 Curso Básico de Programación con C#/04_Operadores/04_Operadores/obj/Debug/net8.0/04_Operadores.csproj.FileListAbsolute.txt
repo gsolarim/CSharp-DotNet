@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\bin\Debug\net8.0\04_Operadores.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\bin\Debug\net8.0\04_Operadores.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\bin\Debug\net8.0\04_Operadores.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\bin\Debug\net8.0\04_Operadores.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\bin\Debug\net8.0\04_Operadores.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\04_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\04_Operadores.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\04_Operadores.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\04_Operadores.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\04_Operadores.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\refint\04_Operadores.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\04_Operadores.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\04_Operadores.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\04_Operadores\04_Operadores\obj\Debug\net8.0\ref\04_Operadores.dll

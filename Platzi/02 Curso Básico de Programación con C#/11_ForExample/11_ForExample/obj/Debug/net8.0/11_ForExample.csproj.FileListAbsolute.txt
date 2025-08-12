@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\bin\Debug\net8.0\11_ForExample.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\bin\Debug\net8.0\11_ForExample.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\bin\Debug\net8.0\11_ForExample.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\bin\Debug\net8.0\11_ForExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\bin\Debug\net8.0\11_ForExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\11_ForExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\11_ForExample.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\11_ForExample.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\11_ForExample.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\11_ForExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\refint\11_ForExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\11_ForExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\11_ForExample.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\11_ForExample\11_ForExample\obj\Debug\net8.0\ref\11_ForExample.dll

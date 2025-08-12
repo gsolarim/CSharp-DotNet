@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\bin\Debug\net8.0\06_OperadoresRelacionales.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\bin\Debug\net8.0\06_OperadoresRelacionales.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\bin\Debug\net8.0\06_OperadoresRelacionales.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\bin\Debug\net8.0\06_OperadoresRelacionales.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\bin\Debug\net8.0\06_OperadoresRelacionales.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\06_OperadoresRelacionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\06_OperadoresRelacionales.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\06_OperadoresRelacionales.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\06_OperadoresRelacionales.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\06_OperadoresRelacionales.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\refint\06_OperadoresRelacionales.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\06_OperadoresRelacionales.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\06_OperadoresRelacionales.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\06_OperadoresRelacionales\06_OperadoresRelacionales\obj\Debug\net8.0\ref\06_OperadoresRelacionales.dll

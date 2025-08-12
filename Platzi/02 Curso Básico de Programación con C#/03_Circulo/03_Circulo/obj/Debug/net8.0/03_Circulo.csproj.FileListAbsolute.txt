@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\bin\Debug\net8.0\03_Circulo.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\bin\Debug\net8.0\03_Circulo.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\bin\Debug\net8.0\03_Circulo.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\bin\Debug\net8.0\03_Circulo.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\bin\Debug\net8.0\03_Circulo.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\03_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\03_Circulo.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\03_Circulo.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\03_Circulo.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\03_Circulo.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\refint\03_Circulo.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\03_Circulo.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\03_Circulo.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\03_Circulo\03_Circulo\obj\Debug\net8.0\ref\03_Circulo.dll

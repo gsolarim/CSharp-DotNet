@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabo Workspace\\Cursos\\C# - .NET\\Platzi\\02 Curso B\u00E1sico de Programaci\u00F3n con C#\\10_WhileExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB1450-0602-403F-8A68-2FAED8D63F80}|10_WhileExample\\10_WhileExample.csproj|d:\\gabo workspace\\cursos\\c# - .net\\platzi\\02 curso b\u00E1sico de programaci\u00F3n con c#\\10_whileexample\\10_whileexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB1450-0602-403F-8A68-2FAED8D63F80}|10_WhileExample\\10_WhileExample.csproj|solutionrelative:10_whileexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gabo Workspace\\Cursos\\C# - .NET\\Platzi\\02 Curso B\u00E1sico de Programaci\u00F3n con C#\\10_WhileExample\\10_WhileExample\\Program.cs",
+              "RelativeDocumentMoniker": "10_WhileExample\\Program.cs",
+              "ToolTip": "D:\\Gabo Workspace\\Cursos\\C# - .NET\\Platzi\\02 Curso B\u00E1sico de Programaci\u00F3n con C#\\10_WhileExample\\10_WhileExample\\Program.cs",
+              "RelativeToolTip": "10_WhileExample\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:49:53.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

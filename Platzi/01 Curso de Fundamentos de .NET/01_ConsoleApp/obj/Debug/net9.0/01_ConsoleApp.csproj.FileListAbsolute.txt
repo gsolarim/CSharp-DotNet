@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\bin\Debug\net9.0\01_ConsoleApp.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\bin\Debug\net9.0\01_ConsoleApp.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\bin\Debug\net9.0\01_ConsoleApp.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\bin\Debug\net9.0\01_ConsoleApp.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\bin\Debug\net9.0\01_ConsoleApp.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\01_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\01_ConsoleApp.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\01_ConsoleApp.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\01_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\01_ConsoleApp.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\refint\01_ConsoleApp.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\01_ConsoleApp.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\01_ConsoleApp.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\01 Curso de Fundamentos de .NET\01_ConsoleApp\obj\Debug\net9.0\ref\01_ConsoleApp.dll

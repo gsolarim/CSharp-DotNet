@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\bin\Debug\net8.0\08_IfExample.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\bin\Debug\net8.0\08_IfExample.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\bin\Debug\net8.0\08_IfExample.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\bin\Debug\net8.0\08_IfExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\bin\Debug\net8.0\08_IfExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\08_IfExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\08_IfExample.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\08_IfExample.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\08_IfExample.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\08_IfExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\refint\08_IfExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\08_IfExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\08_IfExample.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\08_IfExample\08_IfExample\obj\Debug\net8.0\ref\08_IfExample.dll

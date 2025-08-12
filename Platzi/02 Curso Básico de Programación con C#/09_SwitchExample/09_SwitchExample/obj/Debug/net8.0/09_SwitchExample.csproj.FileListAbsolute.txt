@@ -1,0 +1,14 @@
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\bin\Debug\net8.0\09_SwitchExample.exe
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\bin\Debug\net8.0\09_SwitchExample.deps.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\bin\Debug\net8.0\09_SwitchExample.runtimeconfig.json
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\bin\Debug\net8.0\09_SwitchExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\bin\Debug\net8.0\09_SwitchExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\09_SwitchExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\09_SwitchExample.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\09_SwitchExample.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\09_SwitchExample.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\09_SwitchExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\refint\09_SwitchExample.dll
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\09_SwitchExample.pdb
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\09_SwitchExample.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\C# - .NET\Platzi\02 Curso Básico de Programación con C#\09_SwitchExample\09_SwitchExample\obj\Debug\net8.0\ref\09_SwitchExample.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLL1QfelsbQ=",
+  "success": true,
+  "projectFilePath": "D:\\Gabo Workspace\\Cursos\\C# - .NET\\Platzi\\01 Curso de Fundamentos de .NET\\02_WebApi\\02_WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GabrielSM\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\GabrielSM\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
