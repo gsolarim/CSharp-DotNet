@@ -1,5 +1,8 @@
 ﻿using System.Text;
+using _02_SuperHeroesApp;
 using _02_SuperHeroesApp.Models;
+
+var imprimirInfo = new ImprimirInfo();
 
 // Creación de instancias de superpoder
 
@@ -25,6 +28,8 @@ superman.Nombre = "   Superman   ";
 superman.IdentidadSecreta = "Clark Kent";
 superman.Ciudad = "Metropolis";
 superman.PuedeVolar = true;
+
+imprimirInfo.ImprimirSuperHeroe(superman);
 
 var superman2 = new SuperHeroe();
 
@@ -62,6 +67,8 @@ wolverine.Id = 5;
 wolverine.Nombre = "Wolverine";
 wolverine.IdentidadSecreta = "Logan";
 wolverine.PuedeVolar = false;
+
+imprimirInfo.ImprimirSuperHeroe(wolverine);
 
 // Asignación de superpoderes a un listado
 List<SuperPoder> poderesWolverine = new List<SuperPoder>();
