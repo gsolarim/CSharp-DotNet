@@ -1,0 +1,15 @@
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\bin\Debug\net8.0\02_SuperHeroesApp.exe
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\bin\Debug\net8.0\02_SuperHeroesApp.deps.json
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\bin\Debug\net8.0\02_SuperHeroesApp.runtimeconfig.json
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\bin\Debug\net8.0\02_SuperHeroesApp.dll
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\bin\Debug\net8.0\02_SuperHeroesApp.pdb
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.sourcelink.json
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.dll
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\refint\02_SuperHeroesApp.dll
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.pdb
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\02_SuperHeroesApp.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\02_SuperHeroesApp\02_SuperHeroesApp\obj\Debug\net8.0\ref\02_SuperHeroesApp.dll

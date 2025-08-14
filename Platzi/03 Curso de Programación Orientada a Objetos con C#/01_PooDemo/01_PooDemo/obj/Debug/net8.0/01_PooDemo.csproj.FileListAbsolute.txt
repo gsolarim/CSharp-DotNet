@@ -1,0 +1,15 @@
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\bin\Debug\net8.0\01_PooDemo.exe
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\bin\Debug\net8.0\01_PooDemo.deps.json
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\bin\Debug\net8.0\01_PooDemo.runtimeconfig.json
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\bin\Debug\net8.0\01_PooDemo.dll
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\bin\Debug\net8.0\01_PooDemo.pdb
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.AssemblyInfoInputs.cache
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.AssemblyInfo.cs
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.csproj.CoreCompileInputs.cache
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.sourcelink.json
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.dll
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\refint\01_PooDemo.dll
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.pdb
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\01_PooDemo.genruntimeconfig.cache
+D:\Gabo Workspace\Cursos\csharp-dotnet\Platzi\03 Curso de Programación Orientada a Objetos con C#\01_PooDemo\01_PooDemo\obj\Debug\net8.0\ref\01_PooDemo.dll
